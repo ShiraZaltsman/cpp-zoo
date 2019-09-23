@@ -20,8 +20,10 @@ public:
 
     Animal(string name, string species, short life_expectancy, list<string> find_in,
            list<string> foods, unsigned char speed);
-    virtual void print(std::ostream& str) const;
-    friend ostream& operator<<(ostream& os, const Animal& dt);
+
+    virtual void print(std::ostream &str) const;
+
+    friend ostream &operator<<(ostream &os, const Animal &dt);
 
 private:
     string m_name;
@@ -37,7 +39,6 @@ inline Animal::Animal(string name, string species, short life_expectancy,
                       list<string> find_in, list<string> foods, unsigned char speed) :
         m_name(name), m_species(species), m_life_expectancy(life_expectancy), m_find_in(find_in),
         m_foods(foods), m_speed(speed) {}
-
 
 
 #endif //CPP_ZOO_SHIRAZALTSMAN_ANIMAL_H

@@ -8,9 +8,21 @@
 
 #include "animal.h"
 
-class zoo {
+#include <vector>
+
+
+class Zoo {
 public:
-    //vector<Animal> m_animals;
+    Zoo();
+
+    Zoo(std::vector<Animal *> animals_vector);
+
+    void print_all_animals();
+
+    void add_animal(Animal *ani);
+
+private:
+    std::vector<Animal *> m_animals_vector;
 };
 
 

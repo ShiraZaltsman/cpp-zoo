@@ -17,6 +17,7 @@ CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o: ../bird.h
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o: ../fish.h
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o: ../main.cpp
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o: ../mammals.h
+CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o: ../zoo.h
 
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o: ../animal.h
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o: ../bird.h

@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.cpp
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
 string
 -
@@ -14,9 +18,17 @@ list
 iostream
 -
 
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.cpp
+bird.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
 animal.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.cpp
+fish.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
 
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
 animal.h
@@ -33,12 +45,30 @@ fish.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
 bird.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+zoo.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.h
 vector
 -
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.cpp
+mammals.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
 
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
 animal.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
 bird.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.cpp
+zoo.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.h
+iostream
+-
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.h
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+vector
+-
 
