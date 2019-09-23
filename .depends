@@ -1,0 +1,6 @@
+fish.o: fish.cpp fish.h animal.h
+bird.o: bird.cpp bird.h animal.h
+animal.o: animal.cpp animal.h
+mammals.o: mammals.cpp mammals.h animal.h bird.h
+zoo.o: zoo.cpp zoo.h animal.h
+main.o: main.cpp animal.h mammals.h bird.h fish.h

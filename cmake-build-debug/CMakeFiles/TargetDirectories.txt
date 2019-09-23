@@ -1,0 +1,3 @@
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir

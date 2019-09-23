@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+string
+-
+list
+-
+iostream
+-
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/main.cpp
+iostream
+-
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+mammals.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
+fish.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
+bird.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+vector
+-
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+bird.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+
