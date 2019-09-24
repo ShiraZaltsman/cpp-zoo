@@ -7,7 +7,7 @@
 
 #include "animal.h"
 
-class SeaCreatures : public Animal {
+class SeaCreatures : virtual public Animal {
 public:
     SeaCreatures(string name);
 

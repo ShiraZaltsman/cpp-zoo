@@ -70,48 +70,9 @@ CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shira/Desktop/cpp-zoo-ShiraZaltsman/main.cpp -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.s
 
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/flags.make
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o: ../SeaCreatures.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o -c /home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.cpp
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.cpp > CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.i
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.cpp -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.s
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/flags.make
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o: ../bird.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o -c /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.cpp
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.cpp > CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.i
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.cpp -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.s
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/flags.make
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o: ../mammals.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o -c /home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.cpp
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.cpp > CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.i
-
-CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.cpp -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.s
-
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/flags.make
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o: ../zoo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o -c /home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.cpp
 
 CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.i: cmake_force
@@ -125,22 +86,16 @@ CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.s: cmake_force
 # Object files for target cpp_zoo_ShiraZaltsman
 cpp_zoo_ShiraZaltsman_OBJECTS = \
 "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o" \
-"CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o" \
-"CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o" \
-"CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o" \
 "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o"
 
 # External object files for target cpp_zoo_ShiraZaltsman
 cpp_zoo_ShiraZaltsman_EXTERNAL_OBJECTS =
 
 cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o
-cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o
-cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o
-cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o
 cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o
 cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make
 cpp_zoo_ShiraZaltsman: CMakeFiles/cpp_zoo_ShiraZaltsman.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable cpp_zoo_ShiraZaltsman"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cpp_zoo_ShiraZaltsman"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_zoo_ShiraZaltsman.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

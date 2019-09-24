@@ -8,7 +8,7 @@
 #include "mammals.h"
 #include "SeaCreatures.h"
 
-class Whale : virtual public Mammals /*virtual public SeaCreatures*/ {
+class Whale : public Mammals , public SeaCreatures {
 public:
     Whale(string name);
 
@@ -35,7 +35,7 @@ private:
 
 };
 
-inline Whale::Whale(string name) : Mammals(name) /*,SeaCreatures(name)*/ {}
+inline Whale::Whale(string name) : Animal(name), Mammals(name), SeaCreatures(name)  {}
 
 inline void Whale::print(std::ostream &str) const {
     Mammals::print(str);

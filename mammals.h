@@ -8,7 +8,7 @@
 #include "animal.h"
 #include "bird.h"
 
-class Mammals : public Animal {
+class Mammals : virtual public Animal {
 public:
     Mammals(string name);
 

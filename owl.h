@@ -62,7 +62,7 @@ inline string Owl::get_species() const {
 }
 
 inline size_t Owl::get_typical_height() const {
-    return 0;
+    return 150;
 }
 
 unsigned char Owl::get_wing_span() const {

@@ -30,7 +30,7 @@ private:
 
 };
 
-inline Monkey::Monkey(string name) : Mammals(name) {}
+inline Monkey::Monkey(string name) : Animal(name), Mammals(name) {}
 
 inline void Monkey::print(std::ostream &str) const {
     Mammals::print(str);
