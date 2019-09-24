@@ -20,7 +20,7 @@ public:
 
     Animal(string name, string species, short life_expectancy, list<string> find_in,
            list<string> foods, unsigned char speed);
-
+    virtual ~Animal();
     virtual void print(std::ostream &str) const;
 
     friend ostream &operator<<(ostream &os, const Animal &dt);

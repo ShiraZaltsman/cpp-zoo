@@ -23,3 +23,7 @@ void Animal::print(std::ostream &str) const {
     }
     cout << endl << "speed: " << +this->m_speed << endl;
 }
+
+Animal::~Animal() {
+
+}
