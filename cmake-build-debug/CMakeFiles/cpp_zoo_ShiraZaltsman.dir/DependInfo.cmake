@@ -4,9 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/animal.cpp.o"
+  "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o"
   "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o"
-  "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/fish.cpp.o"
   "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/main.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o"
   "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o"
   "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.cpp" "/home/shira/Desktop/cpp-zoo-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o"

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.cpp
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.h
 animal.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
 
@@ -18,21 +18,17 @@ list
 iostream
 -
 
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.cpp
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/goose.h
 bird.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
 
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
-animal.h
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
-
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.cpp
-fish.h
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
-
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
-animal.h
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/lion.h
+mammals.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
 
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/main.cpp
 iostream
@@ -41,18 +37,24 @@ animal.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h
 mammals.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
-fish.h
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h
+SeaCreatures.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.h
 bird.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
 zoo.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.h
 vector
 -
-
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.cpp
-mammals.h
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
+lion.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/lion.h
+monkey.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/monkey.h
+goose.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/goose.h
+owl.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/owl.h
+whale.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/whale.h
 
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
 animal.h
@@ -60,11 +62,19 @@ animal.h
 bird.h
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
 
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.cpp
-zoo.h
-/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.h
-iostream
--
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/monkey.h
+mammals.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/owl.h
+bird.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h
+
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/whale.h
+mammals.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h
+SeaCreatures.h
+/home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.h
 
 /home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.h
 animal.h

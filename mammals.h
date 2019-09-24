@@ -10,21 +10,21 @@
 
 class Mammals : public Animal {
 public:
-    Mammals(string name, string species, short life_expectancy, list<string> &find_in,
-            list<string> &foods, unsigned char speed, unsigned char duration_pregnancy,
-            size_t fetus_number);
+    Mammals(string name);
 
     /*virtual*/ void print(std::ostream &str) const;
 
-private:
-    unsigned char m_duration_pregnancy;
-    size_t m_fetus_number;
+    virtual unsigned char get_pregnancy_duration() const = 0;
 
+    virtual unsigned char get_fetus_number() const = 0;
 };
 
-inline Mammals::Mammals(string name, string species, short life_expectancy, list<string> &find_in,
-                        list<string> &foods, unsigned char speed, unsigned char duration_pregnancy,
-                        size_t fetus_number) : Animal(name, species, life_expectancy, find_in, foods, speed),
-                                               m_duration_pregnancy(duration_pregnancy), m_fetus_number(fetus_number) {}
+inline Mammals::Mammals(string name) : Animal(name) {}
+
+inline void Mammals::print(std::ostream &str) const {
+    Animal::print(str);
+    str << "duration of pregnancy: " << +this->get_pregnancy_duration() << " months" << endl << "fetus number: "
+        << +this->get_fetus_number() << " on average" << endl;
+}
 
 #endif //CPP_ZOO_SHIRAZALTSMAN_MAMMALS_H

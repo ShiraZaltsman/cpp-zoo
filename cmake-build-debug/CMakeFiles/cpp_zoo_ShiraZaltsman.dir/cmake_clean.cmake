@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/main.cpp.o"
-  "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/animal.cpp.o"
-  "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/fish.cpp.o"
+  "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o"
   "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.o"
   "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/mammals.cpp.o"
   "CMakeFiles/cpp_zoo_ShiraZaltsman.dir/zoo.cpp.o"

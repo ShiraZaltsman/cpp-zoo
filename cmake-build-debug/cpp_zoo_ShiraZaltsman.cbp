@@ -84,7 +84,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.cpp">
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.cpp">
+			<Option target="cpp_zoo_ShiraZaltsman"/>
+		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/SeaCreatures.h">
 			<Option target="cpp_zoo_ShiraZaltsman"/>
 		</Unit>
 		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/animal.h">
@@ -96,10 +99,10 @@
 		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/bird.h">
 			<Option target="cpp_zoo_ShiraZaltsman"/>
 		</Unit>
-		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.cpp">
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/goose.h">
 			<Option target="cpp_zoo_ShiraZaltsman"/>
 		</Unit>
-		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/fish.h">
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/lion.h">
 			<Option target="cpp_zoo_ShiraZaltsman"/>
 		</Unit>
 		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/main.cpp">
@@ -109,6 +112,15 @@
 			<Option target="cpp_zoo_ShiraZaltsman"/>
 		</Unit>
 		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/mammals.h">
+			<Option target="cpp_zoo_ShiraZaltsman"/>
+		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/monkey.h">
+			<Option target="cpp_zoo_ShiraZaltsman"/>
+		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/owl.h">
+			<Option target="cpp_zoo_ShiraZaltsman"/>
+		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/whale.h">
 			<Option target="cpp_zoo_ShiraZaltsman"/>
 		</Unit>
 		<Unit filename="/home/shira/Desktop/cpp-zoo-ShiraZaltsman/zoo.cpp">

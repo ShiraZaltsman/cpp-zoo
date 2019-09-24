@@ -123,32 +123,32 @@ cpp_zoo_ShiraZaltsman/fast:
 	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build
 .PHONY : cpp_zoo_ShiraZaltsman/fast
 
-animal.o: animal.cpp.o
+SeaCreatures.o: SeaCreatures.cpp.o
 
-.PHONY : animal.o
+.PHONY : SeaCreatures.o
 
 # target to build an object file
-animal.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/animal.cpp.o
-.PHONY : animal.cpp.o
+SeaCreatures.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.o
+.PHONY : SeaCreatures.cpp.o
 
-animal.i: animal.cpp.i
+SeaCreatures.i: SeaCreatures.cpp.i
 
-.PHONY : animal.i
+.PHONY : SeaCreatures.i
 
 # target to preprocess a source file
-animal.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/animal.cpp.i
-.PHONY : animal.cpp.i
+SeaCreatures.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.i
+.PHONY : SeaCreatures.cpp.i
 
-animal.s: animal.cpp.s
+SeaCreatures.s: SeaCreatures.cpp.s
 
-.PHONY : animal.s
+.PHONY : SeaCreatures.s
 
 # target to generate assembly for a file
-animal.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/animal.cpp.s
-.PHONY : animal.cpp.s
+SeaCreatures.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/SeaCreatures.cpp.s
+.PHONY : SeaCreatures.cpp.s
 
 bird.o: bird.cpp.o
 
@@ -176,33 +176,6 @@ bird.s: bird.cpp.s
 bird.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/bird.cpp.s
 .PHONY : bird.cpp.s
-
-fish.o: fish.cpp.o
-
-.PHONY : fish.o
-
-# target to build an object file
-fish.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/fish.cpp.o
-.PHONY : fish.cpp.o
-
-fish.i: fish.cpp.i
-
-.PHONY : fish.i
-
-# target to preprocess a source file
-fish.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/fish.cpp.i
-.PHONY : fish.cpp.i
-
-fish.s: fish.cpp.s
-
-.PHONY : fish.s
-
-# target to generate assembly for a file
-fish.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_zoo_ShiraZaltsman.dir/build.make CMakeFiles/cpp_zoo_ShiraZaltsman.dir/fish.cpp.s
-.PHONY : fish.cpp.s
 
 main.o: main.cpp.o
 
@@ -294,15 +267,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... cpp_zoo_ShiraZaltsman"
 	@echo "... edit_cache"
-	@echo "... animal.o"
-	@echo "... animal.i"
-	@echo "... animal.s"
+	@echo "... SeaCreatures.o"
+	@echo "... SeaCreatures.i"
+	@echo "... SeaCreatures.s"
 	@echo "... bird.o"
 	@echo "... bird.i"
 	@echo "... bird.s"
-	@echo "... fish.o"
-	@echo "... fish.i"
-	@echo "... fish.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

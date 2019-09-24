@@ -1,7 +1,7 @@
 //
 // Created by shira on 9/23/19.
 //
-#include "bird.h"
+#include "SeaCreatures.h"
 
 using std::cout;
 

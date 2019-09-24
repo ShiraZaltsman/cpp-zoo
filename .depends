@@ -1,0 +1,6 @@
+bird.o: bird.cpp bird.h animal.h
+SeaCreatures.o: SeaCreatures.cpp SeaCreatures.h animal.h
+zoo.o: zoo.cpp zoo.h animal.h
+mammals.o: mammals.cpp mammals.h animal.h bird.h
+main.o: main.cpp animal.h mammals.h bird.h SeaCreatures.h zoo.h lion.h \
+ monkey.h goose.h owl.h whale.h
